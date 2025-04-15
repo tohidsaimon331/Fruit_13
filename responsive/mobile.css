@@ -1,0 +1,26 @@
+@media only screen and (max-width: 1120px) {
+
+.menu-items{
+	display: none;
+}
+.responsive-icons{
+	display: inline-block;
+} 
+}
+
+@media only screen and (max-width: 760px){
+.top-bar{
+	display: none;
+}
+.mobile-menu{
+	top: 90px;
+}
+}
+
+@media only screen and (max-width: 350px) {
+
+
+
+	
+  
+}
